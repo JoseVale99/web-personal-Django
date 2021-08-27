@@ -25,7 +25,7 @@ startapp = "python manage.py startapp"
 makemigrations ="python manage.py makemigrations"
 ```
 
-# COMANDOS DE UTILIDAD
+## COMANDOS DE UTILIDAD
 ```bash
     pipenv run server -> arrancar servidor
     pipenv run migrate -> migraciones
