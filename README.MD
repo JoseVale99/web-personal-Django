@@ -30,5 +30,5 @@ makemigrations ="python manage.py makemigrations"
     pipenv run server -> arrancar servidor
     pipenv run migrate -> migraciones
     pipenv run startapp <nameAPP> ->  crear una App
-
+    pipenv run python manage.py createsuperuser -> crear superusuario
 ```
