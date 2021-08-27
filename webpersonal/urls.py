@@ -20,6 +20,5 @@ urlpatterns = [
     # App coreConfig
     path('', include('core.urls')),
     path('', include('porfolio.urls')),
-
     path('admin/', admin.site.urls),
 ]
